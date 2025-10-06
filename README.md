@@ -1,2 +1,2 @@
 # NNP-DEVELOPMENT
-Project Title: Smart UPI Wallet with Auto-Return &amp; Loan Guarantee Feature
+Project Title: Gesture-Based Presentation Tool
